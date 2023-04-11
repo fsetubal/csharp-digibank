@@ -1,0 +1,15 @@
+D:\Estudos\DigiBank\DigiBank\bin\Debug\net6.0\DigiBank.exe
+D:\Estudos\DigiBank\DigiBank\bin\Debug\net6.0\DigiBank.deps.json
+D:\Estudos\DigiBank\DigiBank\bin\Debug\net6.0\DigiBank.runtimeconfig.json
+D:\Estudos\DigiBank\DigiBank\bin\Debug\net6.0\DigiBank.dll
+D:\Estudos\DigiBank\DigiBank\bin\Debug\net6.0\DigiBank.pdb
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.csproj.AssemblyReference.cache
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.AssemblyInfoInputs.cache
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.AssemblyInfo.cs
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.csproj.CoreCompileInputs.cache
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.dll
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\refint\DigiBank.dll
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.pdb
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\DigiBank.genruntimeconfig.cache
+D:\Estudos\DigiBank\DigiBank\obj\Debug\net6.0\ref\DigiBank.dll
